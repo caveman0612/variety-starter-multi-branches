@@ -1,1 +1,1 @@
-#different starter packs
+#this is the react javascript starting pack
