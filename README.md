@@ -1,1 +1,1 @@
-#different starter packs
+#typescript starter react package
